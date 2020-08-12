@@ -7,4 +7,5 @@
 	
 	Technologies and programming languages: Pycharm, Pygame, Python.
 	
+![image](https://user-images.githubusercontent.com/57195730/90067807-512b1700-dcf8-11ea-8ef7-5d4331f0d7e0.png)
 
