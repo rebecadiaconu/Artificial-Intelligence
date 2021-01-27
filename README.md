@@ -1,1 +1,1 @@
-# Artificial-Intelligence (KR & ML projects)
+# Artificial-Intelligence FMI (KR & ML projects)
